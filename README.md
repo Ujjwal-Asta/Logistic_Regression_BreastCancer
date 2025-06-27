@@ -62,3 +62,32 @@ The goal is to understand the logistic regression process and evaluate model per
 ## 📈 Model Evaluation & Confusion Matrix
 
 ### 🔹 Confusion Matrix visualization saved in the repo.
+
+### 🔹 Explanation
+
+| Metric               | Value    |
+|----------------------|----------|
+| Accuracy             | 97.4%    |
+| Precision (Malignant)| 97.6%    |
+| Recall (Malignant)   | 95.3%    |
+| F1 Score             | 96.4%    |
+
+- ✅ The model correctly classified *111 out of 114* test samples.
+- 🧠 *False Negatives = 2* (critical in medical use-case)
+- 🔍 High precision ensures few false positives; high recall ensures few false negatives.
+
+> 🖼 If you're viewing this on GitHub, you can see the image below:
+
+![Confusion Matrix](confusion_matrix.png)
+
+---
+
+## 🔗 Submission Details
+
+- *Submitted by:* Ujjwal Mishra  
+- *GitHub Repository:* https://github.com/Ujjwal-Asta/Logistic_Regression_BreastCancer  
+- *Internship Program:* Elevate Labs – AI & ML Internship (Task 4)
+
+---
+
+> 🔥 "Early diagnosis saves lives — use data to make a difference." 🔥
